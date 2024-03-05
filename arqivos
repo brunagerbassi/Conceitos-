@@ -4,13 +4,15 @@ Nesse contexto, dois tipos de formatos se destacam: proprietários e abertos.
 
 Formatos Proprietários:
 
-Controle único: Controlados por uma única empresa ou organização, como Microsoft (DOC, XLS), Adobe (PDF) ou Apple (iWorks).
+Controle único: 
+Controlados por uma única empresa ou organização, como Microsoft (DOC, XLS), Adobe (PDF) ou Apple (iWorks).
 Especificações não públicas: As especificações técnicas não são públicas, limitando o desenvolvimento de ferramentas compatíveis.
 Risco de obsolescência: O formato pode se tornar obsoleto se a empresa detentora o abandonar, dificultando o acesso aos dados no futuro.
 Exemplos: DOC, XLS, PDF, iWorks, PSD, AI.
 Formatos Abertos:
 
-Especificações públicas: As especificações técnicas são públicas e livremente acessíveis, permitindo o desenvolvimento de ferramentas compatíveis por qualquer pessoa.
+Especificações públicas: 
+As especificações técnicas são públicas e livremente acessíveis, permitindo o desenvolvimento de ferramentas compatíveis por qualquer pessoa.
 Interoperabilidade: Maior interoperabilidade entre diferentes softwares e sistemas, facilitando a troca e o compartilhamento de dados.
 Longevidade: Menor risco de obsolescência, pois a comunidade garante a preservação e o desenvolvimento do formato.
 Exemplos: TXT, CSV, JSON, XML, ODF, ODS, ODT.
